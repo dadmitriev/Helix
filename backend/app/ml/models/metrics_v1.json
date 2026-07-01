@@ -1,0 +1,22 @@
+{
+  "model_name": "xgboost_v1",
+  "version": "1.0.0",
+  "test_roc_auc": 0.9978375456142722,
+  "n_train": 1600,
+  "n_test": 400,
+  "feature_importances": {
+    "glucose": 0.18206875026226044,
+    "hba1c": 0.3959079682826996,
+    "insulin": 0.05219832807779312,
+    "bmi": 0.03551396355032921,
+    "age": 0.021305853500962257,
+    "gender_male": 0.02268362231552601,
+    "family_history": 0.023902997374534607,
+    "systolic_bp": 0.020297078415751457,
+    "diastolic_bp": 0.023831650614738464,
+    "triglycerides": 0.04699815809726715,
+    "hdl_cholesterol": 0.033045414835214615,
+    "waist_circumference": 0.041450534015893936,
+    "homa_ir": 0.1007956713438034
+  }
+}
